@@ -1,4 +1,4 @@
-# JSON to Swagger
+# JSON/YAML to Swagger
 
 A FastAPI-based web application for uploading, storing, and serving OpenAPI specifications (JSON or YAML) with dynamic Swagger UI documentation. The project supports persistent storage using SQLite and provides Docker support for easy deployment.
 
