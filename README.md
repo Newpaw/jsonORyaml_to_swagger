@@ -29,8 +29,8 @@ A FastAPI-based web application for uploading, storing, and serving OpenAPI spec
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/newpaw/json_to_swagger.git
-cd json_to_swagger
+git clone https://github.com/Newpaw/jsonORyaml_to_swagger.git
+cd jsonORyaml_to_swagger
 ```
 
 ### 2. Install Dependencies
